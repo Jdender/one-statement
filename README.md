@@ -1,6 +1,6 @@
 # One Statement
 
-Making programs in JavaScript with only one statement.
+Making JavaScript programs with only one statement.
 
 ## Table of Contents
 

@@ -1,4 +1,4 @@
-# Readme
+# One Statement
 
 Making programs in JavaScript with only one statement.
 
@@ -55,7 +55,7 @@ Curly brackets are allowed for object literals and deconstructing, but code bloc
 () => { return {}; }
 ```
 
-### 3. No eval\(\) or Function\(\)
+### 3. No eval() or Function()
 
 Using `eval()` or the function constructor either explicitly or indirectly is forbidden.
 

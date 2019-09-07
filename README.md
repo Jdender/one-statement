@@ -10,6 +10,9 @@ Making programs in JavaScript with only one statement.
 
 <!-- toc -->
 
+- [Projects](#projects)
+  * [Official Examples](#official-examples)
+  * [Community Made](#community-made)
 - [Rules](#rules)
   * [1. Only One Top-level Statement](#1-only-one-top-level-statement)
   * [2. No Code Blocks](#2-no-code-blocks)
@@ -18,6 +21,18 @@ Making programs in JavaScript with only one statement.
 <!-- tocstop -->
 
 Generated using [markdown-toc](https://www.npmjs.com/package/markdown-toc).
+
+## Projects
+
+### Official Examples
+
+- [Chat](examples/chat) - A client-server pair for a chat app. Made with Socket.io, React, and only one statement each.
+
+### Community Made
+
+*If you created your own projects please submit a pull request to expand this list!*
+
+- None so far
 
 ## Rules
 

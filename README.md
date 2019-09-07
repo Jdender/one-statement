@@ -2,6 +2,23 @@
 
 Making programs in JavaScript with only one statement.
 
+## Table of Contents
+
+<!--
+    markdown-toc -i README.md
+-->
+
+<!-- toc -->
+
+- [Rules](#rules)
+  * [1. Only One Top-level Statement](#1-only-one-top-level-statement)
+  * [2. No Code Blocks](#2-no-code-blocks)
+  * [3. No eval() or Function()](#3-no-eval-or-function)
+
+<!-- tocstop -->
+
+Generated using [markdown-toc](https://www.npmjs.com/package/markdown-toc).
+
 ## Rules
 
 Really the only rule you have to worry about is your code should only have one statement.

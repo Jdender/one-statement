@@ -1,0 +1,14 @@
+{
+  "name": "one-statement",
+  "version": "1.0.0",
+  "description": "doot",
+  "main": "src/index.js",
+  "repository": "https://github.com/Jdender/one-statement.git",
+  "author": "Jdender~ <jdenderplays@gmail.com>",
+  "license": "AGPL-3.0",
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ]
+}

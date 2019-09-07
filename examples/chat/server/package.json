@@ -1,11 +1,12 @@
 {
-  "name": "server",
+  "name": "one-statement-chat-example-server",
   "version": "1.0.0",
   "description": "doot",
   "main": "src/index.ts",
   "repository": "https://github.com/Jdender/one-statement.git",
   "author": "Jdender~ <jdenderplays@gmail.com>",
   "license": "AGPL-3.0",
+  "private": true,
   "scripts": {
     "up": "ts-node-dev --respawn --files ."
   },

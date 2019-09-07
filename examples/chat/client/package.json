@@ -1,11 +1,12 @@
 {
-  "name": "client",
+  "name": "one-statement-chat-example-client",
   "version": "1.0.0",
   "description": "doot",
   "main": "src/index.tsx",
   "repository": "https://github.com/Jdender/one-statement.git",
   "author": "Jdender~ <jdenderplays@gmail.com>",
   "license": "AGPL-3.0",
+  "private": true,
   "scripts": {
     "up": "parcel src/index.html --port 8081"
   },

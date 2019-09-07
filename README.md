@@ -1,4 +1,4 @@
-# One Statement
+# Readme
 
 Making programs in JavaScript with only one statement.
 
@@ -12,7 +12,7 @@ These following rules just flush out what counts and what doesn't.
 
 Your code should only have one statement.
 
-```js
+```javascript
 // Good
 ( --snip-- );
 
@@ -35,7 +35,7 @@ import {} from '';
 
 Curly brackets are allowed for object literals and deconstructing, but code blocks are forbidden.
 
-```js
+```javascript
 // Good: Object
 ({ foo: 'bar' })
 
@@ -55,11 +55,11 @@ Curly brackets are allowed for object literals and deconstructing, but code bloc
 () => { return {}; }
 ```
 
-### 3. No eval() or Function()
+### 3. No eval\(\) or Function\(\)
 
 Using `eval()` or the function constructor either explicitly or indirectly is forbidden.
 
-```js
+```javascript
 // Bad
 eval()
 
@@ -72,3 +72,4 @@ Function('')
 // Bad: Indirect
 [].constructor.constructor('')
 ```
+
